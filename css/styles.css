@@ -1,0 +1,193 @@
+header h1{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+header h2{
+  font-size: 20px;
+  font-weight: normal;
+}
+
+header ul{
+  position: absolute;
+  left: 329px;
+  top: 30px;
+  z-index: 1000;
+}
+
+.headerdots{
+  position: absolute;
+  left: 276px;
+}
+
+.bluesticker{
+  width: 68px;
+  height: 68px;
+  float: right;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+img[src="images/bluesticker.png"] {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+
+.purplesticker{
+  width: 68px;
+  height: 68px;
+  float: right;
+  position: absolute;
+  top: 33px;
+  right: 25px;
+}
+
+img[src="images/purplesticker.png"] {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+
+.redsticker{
+  width: 68px;
+  height: 68px;
+  float: right;
+  position: absolute;
+  top: 33px;
+  right: 25px;
+}
+
+img[src="images/redsticker.png"] {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+
+
+img[src="images/bluestickernav.png"] {
+  width: 33px;
+  height: 33px;
+  padding-right: 11px;
+}
+
+img[src="images/greenstickernav.png"] {
+  width: 30px;
+  height: 37px;
+  padding-right: 12px;
+  padding-left: 2px;
+}
+
+img[src="images/purplestickernav.png"] {
+  width: 30px;
+  height: 37px;
+  padding-right: 12px;
+  padding-left: 2px;
+}
+
+img[src="images/redstickernav.png"] {
+  width: 30px;
+  height: 37px;
+  padding-right: 12px;
+  padding-left: 2px;
+}
+
+img[src="images/arrowdown.svg"] {
+  padding-left: 11px;
+}
+
+nav{
+  width: 275px;
+  position: fixed;
+  height:100%;
+  box-shadow:  3px 0px 12px 1px #D1D1D1;
+}
+
+nav .topnav li{
+  list-style: none;
+  font-size: 25px;
+  padding-top: 15px;
+  font-weight: bold;
+}
+
+.topnav ul {
+  padding-top: 108px;
+  padding-left: 19px;
+}
+
+nav .bottomnav{
+  padding-top: 150px;
+  padding-left: 49px;
+}
+
+.bottomnav p{
+  font-size: 15px;
+  padding-top: 18px;
+}
+
+.bottomnav a{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.socials li{
+  list-style: none;
+  float: left;
+  margin-left: 12px;
+}
+
+.bottomnav ul{
+  position: absolute;
+  left: 37px;
+}
+
+
+
+
+main img{
+  margin-bottom: 75px;
+}
+
+main h2{
+  font-size: 25px;
+  margin-bottom: 13px;
+}
+
+main{
+  margin-top: 260px;
+}
+
+main p{
+  margin-bottom: 160px;
+}
+
+img[src="images/Business_Cards.png"] {
+  width: 669px;
+  height: 413px;
+}
+
+img[src="images/hypnocoin1.png"] {
+  width: 669px;
+  height: 413px;
+}
+
+
+
+
+img[src="images/aboutpic.png"] {
+  width: 669px;
+  height: 413px;
+}
+
+img[src="images/aboutcircle.png"] {
+  width: 287px;
+  height: 287px;
+}
+
+.circle{
+  position: absolute;
+  right: 230px;
+  top: 517px;
+}
