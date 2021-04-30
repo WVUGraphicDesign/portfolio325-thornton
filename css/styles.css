@@ -452,8 +452,16 @@ header li:hover{
   opacity: 65%;
 }
 
-img[src="images/formidea.png"] {
-  position: absolute;
+img[src="images/zine1.png"] {
+  width: 927px;
+}
+
+img[src="images/zine2.png"] {
+  width: 927px;
+}
+
+img[src="images/zine3.png"] {
+  width: 927px;
 }
 
 main a{
@@ -489,7 +497,7 @@ main a{
 }
 
 img[src="images/backarrow.svg"] {
-width: 33px;
+width: px;
 }
 
 
