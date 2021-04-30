@@ -558,5 +558,9 @@ input[type=submit]:hover {
   width: 1100px;
   position: relative;
   top: 245px;
-  left: 477px;
+  left: 525px;
+}
+
+.fancyportraits img{
+  width: 300px;
 }
