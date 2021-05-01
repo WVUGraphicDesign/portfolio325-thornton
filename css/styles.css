@@ -471,6 +471,10 @@ main a{
   width: 450px;
 }
 
+.container_24{
+  position: relative;
+}
+
 /*.backbutton a{
   font-size: 20px;
   font-weight: bold;
@@ -569,4 +573,8 @@ input[type=submit]:hover {
 
 .fancyportraits img{
   width: 300px;
+}
+
+.fix{
+  width: 1679px;
 }
