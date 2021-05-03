@@ -596,3 +596,30 @@ input[type=submit]:hover {
 p{
 font-family: 'Noto Serif', serif;
 }
+
+.rheader{
+  position: relative;
+  top: 220px;
+  left: 580px;
+  width: 400px;
+}
+
+.rleft{
+  position: relative;
+  top: 279px;
+  left: 580px;
+  width: 400px;
+  padding-bottom: 30px;
+}
+
+.rright{
+  position: absolute;
+  top: 220px;
+  left: 984px;
+  width: 400px;
+  padding-bottom: 30px;
+}
+
+h3{
+  margin-bottom: 0px;
+}
