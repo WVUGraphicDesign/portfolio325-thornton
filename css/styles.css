@@ -56,6 +56,10 @@ a:visited {
   text-decoration: none;
 }
 
+.index .active a{
+color:#0255BA;
+}
+
 .photo a:hover {
   color: #225A44;
   background-color: transparent;
@@ -577,4 +581,8 @@ input[type=submit]:hover {
 
 .fix{
   width: 1679px;
+}
+
+p{
+font-family: 'Noto Serif', serif;
 }

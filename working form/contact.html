@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Forms</title>
+	<link href="css/reset.css" rel="stylesheet" type="text/css">
+	<link href="css/text.css" rel="stylesheet" type="text/css">
+	<link href="css/960.css" rel="stylesheet" type="text/css">
+	<link href="css/forms.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<div class="container_12">
+
+		<form action="contact.php" method="post">
+
+			<div class="grid_7">
+				<label class="grid_1" for="email">Email:</label>
+				<input class="grid_5" type="email" name="E-Mail" id="email">
+			</div>
+
+			<div class="grid_7">
+				<label class="grid_1" for="name">Name:</label>
+				<input class="grid_5" type="text" name="Name" id="name">
+			</div>
+
+			<div class="grid_7">
+				<label class="grid_1" for="subject">Subject:</label>
+				<input class="grid_5" type="text" name="Subject" id="subject">
+			</div>
+
+			<div class="grid_7">
+				<label class="grid_1" for="message">Message:</label>
+				<textarea class="grid_5" name="Message" id="message" cols="30" rows="10"></textarea>
+			</div>
+
+			<fieldset class="prefix_1 grid_6">
+				<button type="submit">Send</button>
+				<button type="reset">Reset</button>
+			</fieldset>
+
+		</form>
+
+	</div>
+	<!--closes container-->
+</body>
+
+</html>
