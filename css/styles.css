@@ -623,3 +623,23 @@ font-family: 'Noto Serif', serif;
 h3{
   margin-bottom: 0px;
 }
+
+img[src="images/color_cover.png"] {
+  width: 927px;
+}
+
+img[src="images/color_open.png"] {
+  width: 927px;
+}
+
+img[src="images/color_1.png"] {
+  width: 927px;
+}
+
+img[src="images/color_2.png"] {
+  width: 927px;
+}
+
+img[src="images/color_3.png"] {
+  width: 927px;
+}
